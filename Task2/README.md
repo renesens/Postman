@@ -1,6 +1,7 @@
-### HW_2 Postman
+### Task2 Postman
 
 http://162.55.220.72:5005/first
+
 1. submit a request.
 2. Status code 200
 3. Check that `body` comes with the correct string.
@@ -8,6 +9,7 @@ http://162.55.220.72:5005/first
 ---
 
 http://162.55.220.72:5005/user_info_3
+
 1. send a request.
 2. Status code 200
 3. Parse `response body` to json.
@@ -24,6 +26,7 @@ http://162.55.220.72:5005/user_info_3
 ---
 
 http://162.55.220.72:5005/object_info_3
+
 1. submit the query.
 2. Status code 200
 3. Parse `response body` to json.
@@ -38,6 +41,7 @@ http://162.55.220.72:5005/object_info_3
 12. Check that the age parameter has a value of 4.
 
 http://162.55.220.72:5005/object_info_4
+
 1. submit the request.
 2. Status code 200
 3. Parse `response body` to json.
@@ -61,6 +65,7 @@ http://162.55.220.72:5005/object_info_4
 21. Write a loop that outputs to the console in order of the list items from the `salary` parameter.
 
 http://162.55.220.72:5005/user_info_2
+
 1. Insert the `salary` parameter from the environment into `request`.
 2. Insert the `age` parameter from the environment into `age`.
 3. Insert the `name` parameter from the environment into `name`.
